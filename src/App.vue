@@ -51,7 +51,7 @@ const accept = () => {
   <div v-if="step === 2" class="container">
     <h2>Sim, eu sabia que estava... hahaha!</h2>
     <h3>Agora chama o seu fedido favorito, fale alguma coisa que tire ele do centro, eu duvido!!! 🥰</h3>
-    <a href="https://wa.me/5515996308585" target="_blank">Fale comigo baby</a>
+    <a href="https://wa.me/5515996308585" target="_blank">Para falar com ele, clique aqui</a>
   </div>
 </template>
 
