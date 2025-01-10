@@ -50,7 +50,7 @@ const accept = () => {
   </div>
   <div v-if="step === 2" class="container">
     <h2>Sim, eu sabia que estava... hahaha!</h2>
-    <h3>Agora chama o seu fedido favorito, fale alguma coisa que tire ele do centro, eu duvido!!! 🥰</h3>
+    <h3>Agora chama o seu fedido favorito, fale alguma coisa que tire ele do centro! Conte uma coisa que ele não sabe, eu duvido!!! 🥰</h3>
     <h2>
       <a href="https://wa.me/5515996308585" target="_blank">Vou te ajudar a falar com ele, apenas clique aqui!!</a>
     </h2>
