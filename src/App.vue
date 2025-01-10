@@ -52,7 +52,7 @@ const accept = () => {
     <h2>Sim, eu sabia que estava... hahaha!</h2>
     <h3>Agora chama o seu fedido favorito, fale alguma coisa que tire ele do centro, eu duvido!!! 🥰</h3>
     <h2>
-      <a href="https://wa.me/5515996308585" target="_blank">Para falar com ele, clique aqui!!</a>
+      <a href="https://wa.me/5515996308585" target="_blank">Vou te ajudar a falar com ele, apenas clique aqui!!</a>
     </h2>
   </div>
 </template>
